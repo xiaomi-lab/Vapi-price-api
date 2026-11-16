@@ -2,7 +2,7 @@
 
 API harga kripto di balik paywall x402 — $0.001 USDC per request (Base, chain
 8453, exact scheme). Dibangun untuk misi vAPI **"List your API"** (500 poin).
-Payout wallet: `0x66ce1B914E15f346FC9fDB80e556A017c092E5A4` (dompet pemilik akun vAPI / owner wallet).
+Payout wallet: `0xA6F834Dd7737b81E4cA51790F325cAc3C12447c3` (dompet agen vAPI).
 
 ## Route
 
